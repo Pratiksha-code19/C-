@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//auto new feature
+//auto is used to for automatically assigning the datatype 
 int main()
 {
     // auto x= 2*5.7+'a';
