@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//auto new feature
 int main()
 {
     // auto x= 2*5.7+'a';
